@@ -1,7 +1,7 @@
 # Assignment1ServerNode
 
-#Contributors
+# Contributors
 Cristian Nicolai Hernández Rios
 
-#Observations
+# Observations
 I can't run lite-server
